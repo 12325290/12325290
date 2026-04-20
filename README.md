@@ -18,17 +18,17 @@
 ## 🤝 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amit-raj0/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/amit-raj0/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" />
   </a>
-  <a href="https://leetcode.com/u/ar_amitraj/">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
+  <a href="https://leetcode.com/u/ar_amitraj/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" />
   </a>
-  <a href="https://www.hackerrank.com/profile/amitraj366231">
-    <img src="https://skillicons.dev/icons?i=hackerrank" />
+  <a href="https://www.hackerrank.com/profile/amitraj366231" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/amitraj2kwg/">
-    <img src="https://skillicons.dev/icons?i=cpp" />
+  <a href="https://www.geeksforgeeks.org/user/amitraj2kwg/" target="_blank">
+    <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" />
   </a>
 </p>
 
