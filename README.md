@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=12325290" alt="12325290" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://lovable.dev/projects/936a364c-0967-429e-99dd-8b12c9dee49c](https://lovable.dev/projects/936a364c-0967-429e-99dd-8b12c9dee49c)
+- 👨‍💻 All of my projects are available at [https://cv-amit-portfolio-69.lovable.app](https://cv-amit-portfolio-69.lovable.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
