@@ -52,30 +52,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=12325290&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=12325290&theme=tokyonight" />
-</p>
-
----
-
-## 🧠 About Me
-
-* 💻 I love building real-world projects
-* 📊 Interested in Data Science & Backend Development
-* 🌱 Currently learning: DSA & System Design
-* 🎯 Goal: Crack top tech companies
-
----
 
 <p align="center">
   ⭐️ From <b>Amit Raj</b>
